@@ -1,0 +1,10 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Logs generated at runtime
+firewall.log
+
+# Virtual environments
+.venv/
+venv/
